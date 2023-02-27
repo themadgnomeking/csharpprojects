@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\bin\Debug\net7.0\arrayBasics.exe
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\bin\Debug\net7.0\arrayBasics.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\bin\Debug\net7.0\arrayBasics.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\bin\Debug\net7.0\arrayBasics.dll
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\bin\Debug\net7.0\arrayBasics.pdb
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.dll
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\refint\arrayBasics.dll
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.pdb
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\arrayBasics.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\arrayBasics\obj\Debug\net7.0\ref\arrayBasics.dll
