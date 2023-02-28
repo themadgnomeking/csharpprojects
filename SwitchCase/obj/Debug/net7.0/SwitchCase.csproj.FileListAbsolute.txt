@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
