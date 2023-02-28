@@ -6,6 +6,7 @@ fraudulentOrderIDs[1] = "B456";
 fraudulentOrderIDs[2] = "C789";
 //fraudulentOrderIDs[3] = "D000";
 */
+/*
 string[] fraudulentOrderIDs = { "A123", "B456", "C789" };
 
 Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
@@ -17,3 +18,49 @@ fraudulentOrderIDs[0] = "F000";
 Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
 
 Console.WriteLine($"Thhere are {fraudulentOrderIDs.Length} fraudulent orders to process.");
+*/
+
+//********foreach
+/*
+string[] names = { "Rowena", "Robin", "Bao", };
+foreach (string name in names)
+{
+    Console.WriteLine(name);
+}
+*/
+/*
+int[] inventory = { 200, 450, 700, 175, 250 };
+int sum = 0;
+int bin = 0;
+foreach (int items in inventory)
+{
+    sum += items;
+    bin++;
+    Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+}
+Console.WriteLine($"We have {sum} items in inventory.");
+
+*/
+
+// Unit exercise https://learn.microsoft.com/en-us/training/modules/csharp-arrays/4-challenge
+
+//Rules
+
+string[] fraudulentOrderIDs = 
+{   "B123",
+    "C234",
+    "A345",
+    "C15",
+    "B177",
+    "G3003",
+    "C235",
+    "B179"
+};
+
+foreach (string orderids in fraudulentOrderIDs)
+{
+    if (orderids.StartsWith("B"))
+    {
+        Console.WriteLine(orderids);
+    }
+}
