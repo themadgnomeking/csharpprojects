@@ -9,3 +9,9 @@ if (flag)
 }
 Console.WriteLine("Outside of code block: " + value);
 */
+/*
+bool flag = true;
+if (flag) Console.WriteLine(flag);
+*/
+
+//Variable Scope challenge https://learn.microsoft.com/en-us/training/modules/csharp-code-blocks/4-exercise-challenge-variable-scope
