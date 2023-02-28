@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\bin\Debug\net7.0\ControlVariableScope.exe
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\bin\Debug\net7.0\ControlVariableScope.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\bin\Debug\net7.0\ControlVariableScope.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\bin\Debug\net7.0\ControlVariableScope.dll
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\bin\Debug\net7.0\ControlVariableScope.pdb
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.dll
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\refint\ControlVariableScope.dll
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.pdb
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ControlVariableScope.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\ControlVariableScope\obj\Debug\net7.0\ref\ControlVariableScope.dll
