@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\bin\Debug\net7.0\IterateCodeBlock.exe
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\bin\Debug\net7.0\IterateCodeBlock.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\bin\Debug\net7.0\IterateCodeBlock.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\bin\Debug\net7.0\IterateCodeBlock.dll
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\bin\Debug\net7.0\IterateCodeBlock.pdb
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.dll
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\refint\IterateCodeBlock.dll
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.pdb
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\IterateCodeBlock.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\IterateCodeBlock\obj\Debug\net7.0\ref\IterateCodeBlock.dll
