@@ -66,16 +66,16 @@ for (int i = 0; i <= 100; i++)
     {   
         if (i % 3 == 0)
         {
-            Console.WriteLine(fizz + buzz);
+            Console.WriteLine($"{i} - {fizz}{buzz}");
         }
         else
         {
-        Console.WriteLine(buzz);
+        Console.WriteLine($"{i} - {buzz}");
         }
     }
     else if (i % 3 == 0)
     {
-        Console.WriteLine(fizz);
+        Console.WriteLine($"{i} - {fizz}");
     }
     else
     {
