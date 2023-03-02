@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\bin\Debug\net7.0\DoWhile.exe
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\bin\Debug\net7.0\DoWhile.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\bin\Debug\net7.0\DoWhile.dll
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\bin\Debug\net7.0\DoWhile.pdb
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.dll
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\refint\DoWhile.dll
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.pdb
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\DoWhile\obj\Debug\net7.0\ref\DoWhile.dll
