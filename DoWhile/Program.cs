@@ -142,6 +142,8 @@ do
 /*
 Must use string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 */
+
+//solution from https://learn.microsoft.com/en-us/training/modules/csharp-do-while/6-review-solution-differentiate-while-do-statements
 string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 int stringsCount = myStrings.Length;
 
