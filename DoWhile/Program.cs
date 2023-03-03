@@ -77,6 +77,28 @@ If the integer value is not between 5 and 10, your code must use a Console.Write
 Your solution must ensure that the integer value is between 5 and 10 before exiting the iteration.
 Below (after) the iteration code block: your solution must use a Console.WriteLine() statement to inform the user that their input value has been accepted.
 */
+/*
+Console.WriteLine("Please enter an integer between 5 and 10:");
+int userInput;
+
+do
+{
+    
+    if (int.TryParse(Console.ReadLine(), out userInput))
+    {
+        if (userInput > 4 && userInput < 11)
+        {
+            Console.WriteLine($"Your input value ({userInput}) has been accepted.");
+        }else
+        {
+            Console.WriteLine($"You entered {userInput}. Please enter a number between 5 and 10.");
+        }
+    }else
+    {
+        Console.WriteLine("Sorry, you entered an invalid number, please try again.");
+    }
+}while (userInput <= 4 || userInput >= 11);
+*/
 
 
 //****************Code Project 2 - write code that validates string input
@@ -94,6 +116,26 @@ Your solution should use the ToLower() method on the input value to ignore case.
 If the value entered is not a match for one of the role options, your code must use a Console.WriteLine() statement to prompt the user for a valid entry.
 Below (after) the iteration code block: Your solution must use a Console.WriteLine() statement to inform the user that their input value has been accepted.
 */
+/*
+Console.WriteLine("Enter your role name (Administrator, Manager, or User)");
+bool invalidInput = true;
 
+
+do
+{
+    
+    var userRole = Console.ReadLine();
+    if (userRole.Trim().ToLower() == "administrator" || userRole.Trim().ToLower() == "manager" || userRole.Trim().ToLower() == "user"){
+        Console.WriteLine($"Your input value ({userRole}) has been accepted.");
+        invalidInput = false;
+    }
+    else
+    {
+        Console.WriteLine($"The role name that you entered, \"{userRole}\" is not valid. Enter your role name (Administrator, Manager, or User)");
+    }
+    
+
+}while(invalidInput);
+*/
 
 //****************Code project 3 - Write code in the code editor to implement code that achieves the project conditions 
