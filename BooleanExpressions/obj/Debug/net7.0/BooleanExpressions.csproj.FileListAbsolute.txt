@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.exe
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.dll
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\bin\Debug\net7.0\BooleanExpressions.pdb
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.dll
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\refint\BooleanExpressions.dll
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.pdb
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\BooleanExpressions.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\BooleanExpressions\obj\Debug\net7.0\ref\BooleanExpressions.dll
