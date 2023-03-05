@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\bin\Debug\net7.0\ConvertDataCasting.exe
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\bin\Debug\net7.0\ConvertDataCasting.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\bin\Debug\net7.0\ConvertDataCasting.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\bin\Debug\net7.0\ConvertDataCasting.dll
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\bin\Debug\net7.0\ConvertDataCasting.pdb
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.dll
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\refint\ConvertDataCasting.dll
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.pdb
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ConvertDataCasting.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\ConvertDataCasting\obj\Debug\net7.0\ref\ConvertDataCasting.dll
