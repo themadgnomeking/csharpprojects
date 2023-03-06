@@ -1,0 +1,15 @@
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\bin\Debug\net7.0\ArraysWithHelperMethods.exe
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\bin\Debug\net7.0\ArraysWithHelperMethods.deps.json
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\bin\Debug\net7.0\ArraysWithHelperMethods.runtimeconfig.json
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\bin\Debug\net7.0\ArraysWithHelperMethods.dll
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\bin\Debug\net7.0\ArraysWithHelperMethods.pdb
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.csproj.AssemblyReference.cache
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.AssemblyInfoInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.AssemblyInfo.cs
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.dll
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\refint\ArraysWithHelperMethods.dll
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.pdb
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ArraysWithHelperMethods.genruntimeconfig.cache
+D:\Projects\dotnet\learn\CsharpProjects\ArraysWithHelperMethods\obj\Debug\net7.0\ref\ArraysWithHelperMethods.dll
