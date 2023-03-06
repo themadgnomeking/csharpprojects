@@ -47,7 +47,7 @@ foreach( var pallet in pallets)
     Console.WriteLine($"-- {pallet}");
 }
 */
-
+/*
 // Excersize - Discover Split() and Join()
 string value = "abc123";
 char[] valueArray = value.ToCharArray();
@@ -61,3 +61,28 @@ foreach (string item in items)
 {
     Console.WriteLine(item);
 }
+*/
+
+// Challenge - reverse words - https://learn.microsoft.com/en-us/training/modules/csharp-arrays-operations/5-challenge-1
+
+string pangram = "The quick brown fox jumps over the lazy dog";
+string[] splitSentence = pangram.Split(" ");
+
+string outputSentance = "ehT kciuq nworb xof spmuj revo eht yzal god";
+
+char[] pangramArray = pangram.ToCharArray();
+Array.Reverse(pangramArray);
+string result = new string(pangramArray);
+string[] items = result.Split(' ');
+Array.Reverse(items);
+string finalSentance = String.Join(" ", items);
+
+
+if (finalSentance == outputSentance)
+{
+    Console.WriteLine(finalSentance);
+} else 
+{
+    Console.WriteLine("Try again!");
+}
+
